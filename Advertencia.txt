@@ -1,0 +1,1 @@
+Esta es la rama de desarrollo de los calculos vía cámara. Favor de no trabajar dentro de ella si no tienes permiso de.
